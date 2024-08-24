@@ -1,1 +1,1 @@
-just project i try to creat
+a web mock-resume page
